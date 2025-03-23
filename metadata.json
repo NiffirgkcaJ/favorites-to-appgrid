@@ -1,7 +1,7 @@
 {
+  "uuid": "favorites-to-appgrid@NiffirgkcaJ.github.com",
   "name": "Favorites to Applications Grid",
   "description": "Keep your favorite applications in your applications grid.",
-  "uuid": "favorites-to-appgrid@NiffirgkcaJ.github.com",
   "shell-version": [
     "46",
     "47",
